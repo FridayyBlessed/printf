@@ -5,7 +5,7 @@ This project was done by Gabriel Tibi & Friday Blessed
 
 ## Contributors
 - [Gabriel Tibi ](https://github.com/Gabeytech)
-- [Friday Blessed ](https://github.com/Blessedfriday007)
+- [Friday Blessed ](https://github.com/Fridayblessed)
 # Printf.
 ```` c
 int printf ( const char * format, ... );
